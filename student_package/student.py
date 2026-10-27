@@ -4,3 +4,4 @@ def display_student(name, roll_no, department):
     print("Name:", name)
     print("Roll Number:", roll_no)
     print("Department:", department)
+    print("Status: Registered Successfully")
